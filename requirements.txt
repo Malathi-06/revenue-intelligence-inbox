@@ -1,0 +1,13 @@
+# Core Dependencies
+streamlit==1.30.0
+pandas==2.1.4
+sqlalchemy==2.0.23
+
+# Visualization
+plotly==5.18.0
+
+# Configuration
+python-dotenv==1.0.0
+
+# Utilities
+python-dateutil==2.8.2
